@@ -32,5 +32,5 @@ Pneumonia is a lung infection that can be deadly if not diagnosed early. This pr
 - `README.md`: Project documentation
 
 ## 🤝 Contributors
-- **Jersil G M**
+- **Eshwar K**
 
